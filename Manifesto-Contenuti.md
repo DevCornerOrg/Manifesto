@@ -8,6 +8,9 @@ In questa pagina vengono elencate le possibili tipologie di contenuti che posson
 
 L'elenco non è esaustivo e può essere in seguito modificato e/o integrato.
 
+I contenuti attualmente gestiti dalla community sono elencati nell'apposita pagina dell'organizzazione riportata di seguito:
+[Canali di DevCorner](https://github.com/DevCornerOrg/Organizzazione/blob/master/Canali.md)
+
 ## Tipologie di contenuti
 
 Possiamo individuare i possibili tipi di contenuti realizzabili dall'elenco di seguito riportato:
