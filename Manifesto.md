@@ -33,7 +33,7 @@ L'unico vincolo fondamentale è che **non siano contenuti tecnici** o relativi a
 
 Gli argomenti saranno raggruppati all'interno di categorie, che saranno maggiormente dettagliate nella pagina di seguito indicata.
 
-[Categorie e Argomenti di DevCorner](Manifesto-CategorieArgomenti.md)
+[Pagina di dettaglio delle Categorie e Argomenti di DevCorner](Manifesto-CategorieArgomenti.md)
 
 ## Ambito di interesse
 
@@ -45,9 +45,15 @@ La community tratterà argomenti che avranno principalmente collocazione o appli
 
 Al momento non si ha alcuna visibilità di ampliamenti verso altre regioni o nazioni, ma non si ritiene che tale limitazione risulti insuperabile anche in futuro.
 
+I contenuti potranno comunque essere realizzati (in parte o totalmente) in lingua inglese laddove si tratti di contenuti che hanno valenza anche al di fuori del territorio nazionale o nel caso che il tipo di contenuto faccia riferimento a metodologie o termini che abbiano valenza internazionale.
+
 ## Contenuti
 
 I contenuti potranno essere realizzati nella forma ritenuta più opportuna dal _Divulgatore_ che li realizza.
 Le possibili modalità di distribuzione del contenuto saranno legate a tale forma e saranno decise dai membri dello _Staff_, in comune accordo con il _Divulgatore_ del contenuto.
 Il contenuto realizzato resta di proprietà intellettuale del _Divulgatore_ che potrà in qualunque momento modificare o eliminare il contenuto realizzato dai canali o piattaforme dove tale contenuto è stato distribuito, nei limiti e nelle possibilità offerte dalla piattaforma stessa (laddove si tratti di un prodotto o servizio di terze parti) e/o tramite il supporto dello _Staff_.
 Qualora il contenuto venga distribuito attraverso piattaforme o circuiti social di terze parti, la pubblicazione stessa sarà soggetta alle regole e vincoli di tale strumento. Lo _Staff_ di DevCorner non sarà responsabile in alcun modo per problemi generati da eventuali incomprensioni da parte del _Divulgatore_ riguardo le regole e limitazioni indicate dallo strumento di pubblicazione utilizzato.
+
+Maggiori dettagli sui contenuti e sulla loro erogazione e/o pubblicazione nella pagina di dettaglio di seguito indicata.
+
+[Pagina di dettaglio dei Contenuti di DevCorner](Manifesto-Contenuti.md)
