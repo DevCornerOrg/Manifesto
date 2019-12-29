@@ -14,12 +14,12 @@ Gli esempi di argomenti riportati all'interno delle categorie sono puramente ind
 
 Le categorie al momento identificate sono le seguenti
 
-- [Management](###Management)
-- [Skills](###Skills)
-- [Remote Work](###Remote-Work)
-- [Startup](###Startup)
-- [Fiscal](###Fiscal)
-- [Recruitment](###Recruitment)
+- [Management](#Management)
+- [Skills](#Skills)
+- [Remote Work](#Remote-Work)
+- [Startup](#Startup)
+- [Fiscal](#Fiscal)
+- [Recruitment](#Recruitment)
 
 ### Management
 
